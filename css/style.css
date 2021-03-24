@@ -1,0 +1,8 @@
+/*.summary button.single_add_to_cart_button.button.alt {
+    display: none;
+}*/
+.product_meta {
+    display: inline-block;
+    margin-top: 10px;
+    width: 100%;
+}
